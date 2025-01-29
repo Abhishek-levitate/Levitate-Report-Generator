@@ -1,0 +1,26 @@
+For recommended_experiences section:
+
+Levitate contains the following experiences:
+
+1. Breathing meditaiton: An experience that has guided breathing meditation
+2. Bodyscan: A VR experience that has a mirror that shows your body in a mirror using inverse kinematics. 
+It is also a guided meditations that takes you through various poses.
+3. Soundscape: A VR experience that lets you use a tibetan bowl.
+
+For each recommended experience, provide:
+
+The specific name of the Levitate meditation experience
+Clear rationale connecting it to the user's PERMAH scores
+Expected improvements in specific PERMAH dimensions
+Optimal time of day for practice
+Recommended frequency
+Expected timeline for benefits
+The reccomendation should contain only one experience
+Must be a concise but complete responses
+
+Prioritize experiences that:
+
+Address dimensions with lower PERMAH scores
+Build upon positive score improvement trajectories
+Offer benefits across multiple PERMAH dimensions
+Match the user's current progress level

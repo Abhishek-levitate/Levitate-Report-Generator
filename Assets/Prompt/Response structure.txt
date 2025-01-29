@@ -1,0 +1,18 @@
+Your analysis must be provided in three distinct sections. Each section should be concise but complete and should not exceed 50 words.
+
+{
+  "analysis": {
+    "observations": "",
+    "patterns": "",
+    "opportunities": ""
+  },
+  "advice": {
+    "immediate_actions": "",
+    "progress_indicators": "",
+    "focus_areas": ""
+  },
+  "recommended_experiences": {
+    "name": "",
+    "rationale": ""
+  }
+}
